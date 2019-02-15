@@ -9,4 +9,5 @@ package com.itheima;
  ****/
 public class User {
     private int age;
+    private String name;
 }
